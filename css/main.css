@@ -4043,6 +4043,9 @@ input.num-product::-webkit-inner-spin-button {
   position: relative;
   z-index: 1;
 }
+.how-pos1 img{
+  height: 100px;
+}
 
 .how-pos1 {
   position: absolute;
