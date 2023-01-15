@@ -2733,7 +2733,7 @@ input.num-product::-webkit-inner-spin-button {
   height: 38px;
   border-radius: 50%;
   overflow: hidden;
-  background-color: #81b03f;
+  background-color: #d7b806;
   margin: 0 5px;
   opacity: 0.51;
   -webkit-transition: opacity 0.4s;
@@ -4030,8 +4030,8 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .active-pagi1 {
-  background-color: #81b03f;
-  border-color: #81b03f;
+  background-color: #d7b806;
+  border-color: #d7b806;
   color: #fff;
 }
 
